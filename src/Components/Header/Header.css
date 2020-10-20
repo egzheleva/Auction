@@ -1,0 +1,12 @@
+.header-padding {
+    padding: 10px;
+}
+
+.header-signup {
+    text-decoration: underline;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87);
+}

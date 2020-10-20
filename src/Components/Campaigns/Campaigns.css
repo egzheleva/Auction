@@ -1,0 +1,21 @@
+.expired-campaigns img{
+    padding: 20px;
+    margin: 20px;
+    width: 35d0px;
+    height: 300px;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    margin-left: 8%;
+}
+.expired-campaigns h4 {
+    margin-left:32px;
+}
+
+.campaign-item-button {
+    padding-left: 0px !important;
+}
+.headling-campaigns {
+    position: absolute;
+    padding-left: 34%;
+    padding-top: 20px;
+}

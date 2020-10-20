@@ -1,0 +1,189 @@
+[
+    {
+        "id": 1388534400000,
+        "name": "Bikes",
+        "descr": "Moutain bikes, Racing bikes, Children's bikes",
+        "imagesPaths": [
+            "/img/bike1.jpg",
+            "/img/bike6.jpg",
+            "/img/bike9.jpg"
+        ],
+        "items": [
+            {
+                "id": 1234,
+                "campaignId": "",
+                "name": "BMX",
+                "descr": "A BMX bike is an off-road sport bicycle used for racing and stunt riding. BMX means Bicycle Motocross.Though originally denoting a bicycle intended for BMX racing, the term BMX  is now used to encompass race bikes, as well as those used for the dirt, vert, park, street, flatland and BMX freestyle disciplines of BMX.",
+                "imagesPaths": [
+                    "/img/bike1.jpg",
+                    "/img/bike2.jpg",
+                    "/img/bike3.jpg"
+                ],
+                "currentPrice": 400,
+                "bidderId": 1
+            },
+            {
+                "id": 1235,
+                "name": "Radon Jealous 10.0 – Hardtail 29",
+                "descr": "At the front, the superb FOX 32 Float Factory forks with StepCast Chassis with sensitive responsiveness and firm coordination. As well as the super-light Jealous frame, carbon shines wherever you look: the Reynolds TR 249 wheel sets are at the same time super-light and rigid and offer enough space, with their 24mm rim width, for the easy-rolling tire combination of Schwalbe Racing Ray and Racing Ralph to take full and splendid effect.",
+                "imagesPaths": [
+                    "/img/bike5.jpg",
+                    "/img/bike6.jpg",
+                    "/img/bike7.jpg",
+                    "/img/bike8.jpg"
+                ],
+                "currentPrice": 150,
+                "bidderId": null
+            },
+            {
+                "id": 1236,
+                "name": "Spire Disc 8.0",
+                "descr": "vhe Spire Disc is the right bike for long tours as well as short, fast after-work rides with buddies. It is powered by Shimano's famous 105 group with compact crank and large cassette, so that even long and steep climbs don't become torture. The ergonomic seating position enables light and stable attachments from Level Nine. ",
+                "imagesPaths": [
+                    "/img/bike9.jpg",
+                    "/img/bike10.jpg"
+                ],
+                "currentPrice": 140,
+                "bidderId": null
+            }
+        ]
+    },
+    {
+        "id": 1420070400003,
+        "name": "Mobile Phones",
+        "descr": "Mobile phone, cellular phones, cell phones, handphones",
+        "imagesPaths": [
+            "/img/phones1.jpg",
+            "/img/phone2.jpg",
+            "/img/phone5.jpg"
+        ],
+        "items": [
+            {
+                "id": 1237,
+                "name": "Huawei Mate 30 pro",
+                "descr": "Huawei Mate 30 pro",
+                "imagesPaths": [
+                    "/img/phone2.jpg",
+                    "/img/phone1.jpg"
+                ],
+                "currentPrice": "800",
+                "bidderId": null
+            },
+            {
+                "id": 1238,
+                "name": "iPhone 10",
+                "descr": "Shoot perfect pictures in any lighting situation, and zoom in up to 10x for finer details. Display and Design.",
+                "imagesPaths": [
+                    "/img/phone4.jpg",
+                    "/img/phone3.jpg",
+                    "/img/phone5.jpg"
+                ],
+                "currentPrice": "1200",
+                "bidderId": null
+            },
+            {
+                "id": 1256,
+                "name": "OnePlus 8 Pro",
+                "descr": "OnePlus has shifted itself from budget manufacturer to competing with top-tier brands. Top quality internal components deliver awesome Android speeds, with 5G for those looking for next-gen connectivity too. ",
+                "imagesPaths": [
+                    "/img/phone6.jpg",
+                    "/img/phone7.jpg"
+                ],
+                "currentPrice": "1000"
+            },
+            {
+                "id": 1239,
+                "name": "Samsung Galaxy S20+",
+                "descr": "Samsung's experience pours into the S20 family, with the + model having the size and clout to cut it as one of the best phones around. It has oodles of power, good battery performance and a great display, all efficiently packed into a tidy handset package.",
+                "imagesPaths": [
+                    "/img/phone9.jpg",
+                    "/img/phone8.jpg"
+                ],
+                "currentPrice": "1000"
+            }
+        ]
+    },
+    {
+        "id": 1464988635157,
+        "name": "Cameras",
+        "descr": "See your photos and videos come to life with stunning clarity and rich detail through legendary cameras.",
+        "imagesPaths": [
+            "/img/cameras3.jpg",
+            "/img/cameras2.jpg",
+            "/img/cameras.jpg"
+        ],
+        "items": [
+            {
+                "id": 1240,
+                "name": "Nikon D5300",
+                "descr": "Nikon D5300",
+                "imagesPaths": [
+                    "/img/camera1.jpg",
+                    "/img/camera2.jpg"
+                ],
+                "currentPrice": "2000"
+            },
+            {
+                "id": 1241,
+                "name": "Canon EOS 2000D",
+                "descr": "Canon EOS 2000D",
+                "imagesPaths": [
+                    "/img/camera3.jpg"
+                ],
+                "currentPrice": "3000"
+            }
+        ]
+    },
+    {
+        "id": 1464988636500,
+        "name": "Pet supplies",
+        "descr": "Variety of pet food, supplies, and services",
+        "imagesPaths": [
+            "/img/pets5.jpg",
+            "/img/toy2.jpg",
+            "/img/pets3.jpg"
+        ],
+        "items": [
+            {
+                "id": 1255,
+                "name": "Dog Food Pedigree",
+                "descr": "Adult, Complete nutrition",
+                "imagesPaths": [
+                    "/img/pet1.png",
+                    "/img/pet6.jpg"
+                ],
+                "currentPrice": "70"
+            },
+            {
+                "id": 1256,
+                "descr": "Chewing toys",
+                "imagesPaths": [
+                    "/img/toy1.jpg",
+                    "/img/toy2.jpg"
+                ],
+                "currentPrice": "20"
+            },
+            {
+                "id": 1236,
+                "name": "Dog Beds",
+                "descr": "Beds",
+                "imagesPaths": [
+                    "/img/bed1.jpg",
+                    "/img/bed2.jpg",
+                    "/img/bed3.jpg"
+                ],
+                "currentPrice": "120"
+            }
+        ]
+    },
+    {
+        "id": 1464988717637,
+        "name": "Flowers",
+        "descr": "Flowers",
+        "imagesPaths": [
+            "/img/flowers1.jpg",
+            "/img/flowers2.jpg",
+            "/img/flowers3.jpg"
+        ]
+    }
+]

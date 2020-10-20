@@ -1,0 +1,18 @@
+.item-details-container {
+    display: inline-block;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 35px;
+    width: 22%;
+}
+
+.item-detais-img-container {
+    display: inline-block;
+}
+
+.item-details-butttons {
+    display: inline-block !important;
+    position: absolute !important;
+    margin-top: 14px !important;
+    margin-left: 15px !important;
+}
