@@ -34,14 +34,6 @@ class UsersApiClient{
         });
         return await resp.json();
     }
-    // async getCampaignById(campaignId) {
-    //     const resp = await fetch(`${this.baseUrl}/campaigns/${campaignId}`);
-    //     return await resp.json();
-    //     //console.log(lqlq);
-    //     //return lqlq;
-    // }
-
-   
 }
 
 export default new UsersApiClient(BASE_URL);
