@@ -3,8 +3,8 @@
         "id": 1,
         "firstName": "Admin",
         "lastName": "Admin",
-        "email": "test@test.com",
-        "password": "test",
+        "email": "admin@admin",
+        "password": "admin",
         "role": "admin"
     },
     {
@@ -16,35 +16,19 @@
         "role": "registered"
     },
     {
-        "id": 1603117751321,
-        "firstName": "lqlqlq",
-        "lastName": "lqqlql",
-        "email": "qlqlql@lqlq",
-        "password": "alalal",
-        "role": "registered"
-    },
-    {
         "id": 1603144374967,
         "firstName": "Elena",
         "lastName": "Zheleva",
         "email": "Eli@zhele",
-        "password": "eieiei",
+        "password": "eleele",
         "role": "registered"
     },
     {
         "id": 1603144525546,
-        "firstName": "Lqlq",
-        "lastName": "Nana",
-        "email": "lalq@la",
-        "password": "lalal",
-        "role": "registered"
-    },
-    {
-        "id": 1603144655139,
-        "firstName": "sfa",
-        "lastName": "afafa",
-        "email": "f@adad",
-        "password": "adada",
+        "firstName": "lqlq",
+        "lastName": "lqlq",
+        "email": "lalq@lqlq",
+        "password": "lqlq",
         "role": "registered"
     },
     {
@@ -53,22 +37,6 @@
         "lastName": "Zheleva",
         "email": "eli.jeleva@ahf",
         "password": "eieiei",
-        "role": "registered"
-    },
-    {
-        "id": 1603145869167,
-        "firstName": "Stefan",
-        "lastName": "Petranov",
-        "email": "lqlq@abv",
-        "password": "aakakak",
-        "role": "registered"
-    },
-    {
-        "id": 1603191362722,
-        "firstName": "tttttt",
-        "lastName": "hhh",
-        "email": "asaas@asasa",
-        "password": "eejjaj",
         "role": "registered"
     }
 ]
