@@ -266,7 +266,7 @@ export default function EnhancedTable() {
 
   const isSelected = (name) => selected.indexOf(name) !== -1;
 
-  const emptyRows = rowsPerPage - Math.min(rowsPerPage, rows.length - page * rowsPerPage);
+  const emptyRows = rowsPerPage - Math.min(rowsPerPage, rowsPerPage - page * rowsPerPage);
 
   async function onDeleteUser() {
     const deletedUser = await USERS_API.deleteUser(selected[0]);
